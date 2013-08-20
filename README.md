@@ -2,7 +2,7 @@ Encodings_Z3_SAT_Solver
 =======================
 First TSP Encodings using Z3 Solver:
 	1. Using Array Theory.
-	2. Usinf Function Theory.
+	2. Using Function Theory.
 	3. Incremental SAT.
 	4. Non - Incremental SAT.
 
